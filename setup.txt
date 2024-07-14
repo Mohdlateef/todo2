@@ -1,0 +1,38 @@
+Todo APP
+setup express server :Done
+mongodb connection: Done
+
+set the view engine of express to EJS
+
+on clinet side:
+Register Page :Done
+Login Page :Done
+
+Register Api
+Login Api
+
+Session base auth
+middleware to protect the Api
+
+Dashboard Page
+logout 
+logout from all devices
+
+
+Todo API'S
+  create API
+   Read API
+   edit API
+   delete API
+
+Dashboard client (Axios)
+  axios create API
+  axios read API
+  axios edit API
+  axios delete API
+
+
+Pagination 
+RAteLimiting
+
+Email base auth
