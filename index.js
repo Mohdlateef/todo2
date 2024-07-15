@@ -1,7 +1,9 @@
 const express=require("express");
 const app=express();
+let process =require('dotenv').config();
+
 const mongoose=require("mongoose")
-mongoose.connect()
+// mongoose.connect()
 
 app.get('/',(req,res)=>{
     console.log("abcd");
