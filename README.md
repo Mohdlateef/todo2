@@ -5,4 +5,4 @@ Welcome to the Todo App! This application helps you stay organized by managing y
 ✅ Add, edit, and delete tasks
 📋 View all your todos at a glance
 🌙 Simple and clean user interface
-🔒 Secure authentication with Firebase (if applicable)
+
